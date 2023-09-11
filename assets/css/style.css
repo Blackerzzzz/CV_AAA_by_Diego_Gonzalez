@@ -1,0 +1,17 @@
+body {
+    font-size: 20px;
+}
+header {
+    background-image: url(https://www.gehealthcare.com/-/jssmedia/gehc/us/images/products/computed-tomography/2022-redesign-ct-images/hero/new/computed-tomography-category-hero-desktop.jpg?h=560&iar=0&w=1920&rev=-1&hash=7CF3A1B2BF926CCCA80B305FB5419F07);
+    background-size:cover;
+    background-position: center;
+}
+ul {
+    list-style-type: none; 
+}
+#Estudios {
+    background-color: whitesmoke;
+}
+#Experiencia {
+    background-color: #07344f;
+}
